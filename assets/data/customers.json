@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cust_2",
+    "name": "John Smith",
+    "phone": "+44 7700 900001"
+  },
+  {
+    "id": "cust_3",
+    "name": "Sarah Johnson",
+    "phone": "+44 7700 900002"
+  },
+  {
+    "id": "cust_4",
+    "name": "Mike Wilson",
+    "phone": "+44 7700 900003"
+  },
+  {
+    "id": "cust_5",
+    "name": "Emma Davis",
+    "phone": "+44 7700 900004"
+  },
+  {
+    "id": "cust_6",
+    "name": "James Brown",
+    "phone": "+44 7700 900005"
+  },
+  {
+    "id": "cust_7",
+    "name": "Lisa Anderson",
+    "phone": "+44 7700 900006"
+  },
+  {
+    "id": "cust_8",
+    "name": "David Taylor",
+    "phone": "+44 7700 900007"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Chicken Burger Meal",
+    "categoryId": "cat_1",
+    "price": 8.00,
+    "originalPrice": 10.00,
+    "image": "chicken_burger",
+    "description": "Crispy chicken burger with fries and drink"
+  },
+  {
+    "id": "prod_2",
+    "name": "Chicken Wings",
+    "categoryId": "cat_1",
+    "price": 6.50,
+    "originalPrice": 8.00,
+    "image": "chicken_wings",
+    "description": "Spicy buffalo chicken wings"
+  },
+  {
+    "id": "prod_3",
+    "name": "Paneer Tikka",
+    "categoryId": "cat_1",
+    "price": 7.00,
+    "originalPrice": 9.00,
+    "image": "paneer_tikka",
+    "description": "Grilled cottage cheese with spices"
+  },
+  {
+    "id": "prod_4",
+    "name": "Spring Rolls",
+    "categoryId": "cat_1",
+    "price": 5.50,
+    "originalPrice": 7.00,
+    "image": "spring_rolls",
+    "description": "Crispy vegetable spring rolls"
+  },
+  {
+    "id": "prod_5",
+    "name": "Fish & Chips",
+    "categoryId": "cat_1",
+    "price": 9.00,
+    "originalPrice": 11.00,
+    "image": "fish_chips",
+    "description": "Beer battered fish with crispy chips"
+  },
+  {
+    "id": "prod_6",
+    "name": "Onion Rings",
+    "categoryId": "cat_1",
+    "price": 4.50,
+    "originalPrice": 6.00,
+    "image": "onion_rings",
+    "description": "Golden crispy onion rings"
+  },
+  {
+    "id": "prod_7",
+    "name": "Butter Chicken",
+    "categoryId": "cat_2",
+    "price": 12.00,
+    "originalPrice": 15.00,
+    "image": "butter_chicken",
+    "description": "Creamy tomato-based chicken curry"
+  },
+  {
+    "id": "prod_8",
+    "name": "Lamb Rogan Josh",
+    "categoryId": "cat_2",
+    "price": 14.00,
+    "originalPrice": 17.00,
+    "image": "lamb_rogan",
+    "description": "Aromatic lamb curry with Kashmiri spices"
+  },
+  {
+    "id": "prod_9",
+    "name": "Chicken Tikka Masala",
+    "categoryId": "cat_2",
+    "price": 11.50,
+    "originalPrice": 14.00,
+    "image": "tikka_masala",
+    "description": "Classic chicken tikka in masala gravy"
+  },
+  {
+    "id": "prod_10",
+    "name": "Palak Paneer",
+    "categoryId": "cat_2",
+    "price": 10.00,
+    "originalPrice": 12.00,
+    "image": "palak_paneer",
+    "description": "Spinach and cottage cheese curry"
+  },
+  {
+    "id": "prod_11",
+    "name": "Prawn Curry",
+    "categoryId": "cat_2",
+    "price": 13.50,
+    "originalPrice": 16.00,
+    "image": "prawn_curry",
+    "description": "Coastal prawn curry with coconut"
+  },
+  {
+    "id": "prod_12",
+    "name": "Dal Makhani",
+    "categoryId": "cat_2",
+    "price": 9.00,
+    "originalPrice": 11.00,
+    "image": "dal_makhani",
+    "description": "Creamy black lentil curry"
+  },
+  {
+    "id": "prod_13",
+    "name": "Chicken Biryani",
+    "categoryId": "cat_3",
+    "price": 11.00,
+    "originalPrice": 14.00,
+    "image": "chicken_biryani",
+    "description": "Fragrant basmati rice with chicken"
+  },
+  {
+    "id": "prod_14",
+    "name": "Mutton Biryani",
+    "categoryId": "cat_3",
+    "price": 14.00,
+    "originalPrice": 17.00,
+    "image": "mutton_biryani",
+    "description": "Rich mutton biryani with saffron"
+  },
+  {
+    "id": "prod_15",
+    "name": "Veg Biryani",
+    "categoryId": "cat_3",
+    "price": 9.00,
+    "originalPrice": 11.00,
+    "image": "veg_biryani",
+    "description": "Mixed vegetable biryani"
+  },
+  {
+    "id": "prod_16",
+    "name": "Egg Biryani",
+    "categoryId": "cat_3",
+    "price": 10.00,
+    "originalPrice": 12.00,
+    "image": "egg_biryani",
+    "description": "Spiced egg biryani with raita"
+  },
+  {
+    "id": "prod_17",
+    "name": "Butter Naan",
+    "categoryId": "cat_4",
+    "price": 2.50,
+    "originalPrice": 3.00,
+    "image": "butter_naan",
+    "description": "Soft butter naan bread"
+  },
+  {
+    "id": "prod_18",
+    "name": "Garlic Naan",
+    "categoryId": "cat_4",
+    "price": 3.00,
+    "originalPrice": 3.50,
+    "image": "garlic_naan",
+    "description": "Naan with garlic and herbs"
+  },
+  {
+    "id": "prod_19",
+    "name": "Tandoori Roti",
+    "categoryId": "cat_4",
+    "price": 2.00,
+    "originalPrice": 2.50,
+    "image": "tandoori_roti",
+    "description": "Whole wheat tandoori bread"
+  },
+  {
+    "id": "prod_20",
+    "name": "Cheese Naan",
+    "categoryId": "cat_4",
+    "price": 3.50,
+    "originalPrice": 4.00,
+    "image": "cheese_naan",
+    "description": "Stuffed cheese naan"
+  },
+  {
+    "id": "prod_21",
+    "name": "Masala Chai",
+    "categoryId": "cat_5",
+    "price": 2.50,
+    "originalPrice": 3.00,
+    "image": "masala_chai",
+    "description": "Traditional spiced tea"
+  },
+  {
+    "id": "prod_22",
+    "name": "Mango Lassi",
+    "categoryId": "cat_5",
+    "price": 4.00,
+    "originalPrice": 5.00,
+    "image": "mango_lassi",
+    "description": "Creamy mango yogurt drink"
+  },
+  {
+    "id": "prod_23",
+    "name": "Fresh Lime Soda",
+    "categoryId": "cat_5",
+    "price": 3.00,
+    "originalPrice": 3.50,
+    "image": "lime_soda",
+    "description": "Refreshing lime soda"
+  },
+  {
+    "id": "prod_24",
+    "name": "Cold Coffee",
+    "categoryId": "cat_5",
+    "price": 4.50,
+    "originalPrice": 5.50,
+    "image": "cold_coffee",
+    "description": "Iced coffee with cream"
+  },
+  {
+    "id": "prod_25",
+    "name": "Gulab Jamun",
+    "categoryId": "cat_6",
+    "price": 4.00,
+    "originalPrice": 5.00,
+    "image": "gulab_jamun",
+    "description": "Sweet milk dumplings in sugar syrup"
+  },
+  {
+    "id": "prod_26",
+    "name": "Rasmalai",
+    "categoryId": "cat_6",
+    "price": 5.00,
+    "originalPrice": 6.00,
+    "image": "rasmalai",
+    "description": "Soft cheese patties in sweet milk"
+  },
+  {
+    "id": "prod_27",
+    "name": "Kheer",
+    "categoryId": "cat_6",
+    "price": 3.50,
+    "originalPrice": 4.50,
+    "image": "kheer",
+    "description": "Rice pudding with cardamom and nuts"
+  },
+  {
+    "id": "prod_28",
+    "name": "Ice Cream Sundae",
+    "categoryId": "cat_6",
+    "price": 5.50,
+    "originalPrice": 7.00,
+    "image": "ice_cream",
+    "description": "Mixed ice cream with toppings"
+  }
+]

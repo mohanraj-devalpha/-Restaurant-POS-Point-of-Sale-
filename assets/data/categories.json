@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cat_1",
+    "name": "Starters",
+    "icon": "restaurant"
+  },
+  {
+    "id": "cat_2",
+    "name": "Main Course",
+    "icon": "dinner_dining"
+  },
+  {
+    "id": "cat_3",
+    "name": "Biryani",
+    "icon": "rice_bowl"
+  },
+  {
+    "id": "cat_4",
+    "name": "Breads",
+    "icon": "bakery_dining"
+  },
+  {
+    "id": "cat_5",
+    "name": "Beverages",
+    "icon": "local_cafe"
+  },
+  {
+    "id": "cat_6",
+    "name": "Desserts",
+    "icon": "icecream"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "biz_1",
+  "name": "Emzo Restaurant",
+  "businessId": "EMZO123",
+  "passcode": "123456",
+  "address": "123 High Street, London, UK",
+  "phone": "+44 20 7946 0958",
+  "email": "info@emzorestaurant.com",
+  "currency": "£",
+  "taxRate": 0.0
+}
